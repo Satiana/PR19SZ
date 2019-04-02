@@ -36,6 +36,9 @@ Ko sem se lotil analize podatkov sem naletel še na mnogo problemov pri samem fo
 - Razlika med stolpci ter njihovimi imeni v različnih datotekah (napisal sem različne rešitve za različne datoteke (vse v isti kodi))
 - ...
 
+### Koda
+Programska koda, uporabljena za dosedanjo analizo je v datoteki main.py na tem repozitoriju.
+
 ### Vprasanje
 Bolj kot točno določeno vprašanje me zanima celoten pregled razlik med spoloma pri vozilih v osebni lasti (fizične osebe). Vendar vseeno zastavimo nekaj hipotez, vendar se tekom projekta ne bom omejeval le na tukaj zastavljene hipoteze:
 - Hipoteza 1: Moški imajo v povprečju močnejše avtomobile kot ženske.
