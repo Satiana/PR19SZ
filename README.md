@@ -60,3 +60,18 @@ Hipoteza 6:<br>
 Glej graf 4. Hipoteza ovržena. Zadnjih 7 let se razlika počasi a konstantno celo povečuje. To me je presenetilo in mislim da bi bilo smiselno iskati razloge na različnih mestih, mogoče novi zakoni ali kaj podobnega.
 
 ### Priponke
+![alt text](https://user-images.githubusercontent.com/12514564/55438064-e4026000-55a0-11e9-8789-3e37f8869a15.jpeg)
+
+graf 1
+
+![alt text](https://user-images.githubusercontent.com/12514564/55438065-e49af680-55a0-11e9-800e-3bc56df7f9e2.jpeg)
+
+graf 2
+
+![alt text](https://user-images.githubusercontent.com/12514564/55438066-e49af680-55a0-11e9-976e-e794c6f33a99.jpeg)
+
+graf 3
+
+![alt text](https://user-images.githubusercontent.com/12514564/55438067-e49af680-55a0-11e9-84ba-e34fefb2ca6c.jpeg)
+
+graf 4
